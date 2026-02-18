@@ -118,7 +118,7 @@ app/src/main/
 
 ## 📦 APK
 
-> You can download the latest APK from the [Releases](https://github.com/your-username/HeadBallPlay/releases) section.
+> You can download the latest APK from the [Releases]([https://github.com/your-username/HeadBallPlay/releases](https://drive.google.com/file/d/1WXTaxeG82WEtyXBBYsOcb9QLI5w_2z_J/view?usp=drive_link)) section.
 
 ---
 
