@@ -126,9 +126,3 @@ app/src/main/
 
 - Inspired by the original **Head Ball 2** mobile game
 - Avatar artwork used for educational/demo purposes
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
