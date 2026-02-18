@@ -3,27 +3,19 @@
 A fun 1v1 head ball football game built for Android using Java and Canvas-based custom physics engine.
 
 ---
-
 ## 📸 Screenshots
 
 | Home Screen | Avatar Selection |
 |:-----------:|:----------------:|
-| ![Home Screen](![Home](https://github.com/user-attachments/assets/fcc40b9b-e27b-4765-a547-f5f20501dda5)
-) | ![Avatar Selection](![Character](https://github.com/user-attachments/assets/8785f4fd-a6b3-4405-bc4b-d1a864cfc9a2)
-) |
+| ![Home Screen](https://github.com/user-attachments/assets/fcc40b9b-e27b-4765-a547-f5f20501dda5) | ![Avatar Selection](https://github.com/user-attachments/assets/8785f4fd-a6b3-4405-bc4b-d1a864cfc9a2) |
 
 | Gameplay | Goal! |
 |:--------:|:-----:|
-| ![Gameplay](![Physics](https://github.com/user-attachments/assets/67aff957-5c28-488e-ba7c-eaaaa8f0f5d3)
-) | ![Goal](screenshots/goal.png) |
+| ![Gameplay](https://github.com/user-attachments/assets/67aff957-5c28-488e-ba7c-eaaaa8f0f5d3) | ![Goal](https://github.com/user-attachments/assets/bc2d585f-6054-4cd3-901c-e141a5ee72d9) |
 
 | You Won | Game Over |
 |:-------:|:---------:|
-| ![You Won](![won](https://github.com/user-attachments/assets/3eeefc27-4470-428a-bbae-2524ee3af5e2)
-) | ![Game Over](![Lost](https://github.com/user-attachments/assets/856748d6-33e4-4cfb-83be-bbf26fecb80b)
-) |
-
----
+| ![You Won](https://github.com/user-attachments/assets/3eeefc27-4470-428a-bbae-2524ee3af5e2) | ![Game Over](https://github.com/user-attachments/assets/856748d6-33e4-4cfb-83be-bbf26fecb80b) |
 
 ## 📱 Features
 
