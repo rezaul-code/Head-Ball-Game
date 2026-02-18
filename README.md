@@ -105,7 +105,7 @@ app/src/main/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HeadBallPlay.git
+   [(https://github.com/rezaul-code/Head-Ball-Game.git)]
    ```
 
 2. Open the project in **Android Studio**
