@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="48dp"
-        android:text="HEAD BALL CLONE"
+        android:text="HEAD BALL PLAY"
         android:textColor="@color/white"
         android:textSize="40sp"
         android:textStyle="bold" />
