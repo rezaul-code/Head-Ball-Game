@@ -118,7 +118,7 @@ app/src/main/
 
 ## 📦 APK
 
-> You can download the latest APK from the [Releases]((https://drive.google.com/file/d/1WXTaxeG82WEtyXBBYsOcb9QLI5w_2z_J/view?usp=drive_link)) section.
+> You can download the latest APK from the -->(https://drive.google.com/file/d/1WXTaxeG82WEtyXBBYsOcb9QLI5w_2z_J/view?usp=drive_link)
 
 ---
 
