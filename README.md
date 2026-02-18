@@ -8,15 +8,20 @@ A fun 1v1 head ball football game built for Android using Java and Canvas-based 
 
 | Home Screen | Avatar Selection |
 |:-----------:|:----------------:|
-| ![Home Screen](screenshots/home.png) | ![Avatar Selection](screenshots/avatar_selection.png) |
+| ![Home Screen](![Home](https://github.com/user-attachments/assets/fcc40b9b-e27b-4765-a547-f5f20501dda5)
+) | ![Avatar Selection](![Character](https://github.com/user-attachments/assets/8785f4fd-a6b3-4405-bc4b-d1a864cfc9a2)
+) |
 
 | Gameplay | Goal! |
 |:--------:|:-----:|
-| ![Gameplay](screenshots/gameplay.png) | ![Goal](screenshots/goal.png) |
+| ![Gameplay](![Physics](https://github.com/user-attachments/assets/67aff957-5c28-488e-ba7c-eaaaa8f0f5d3)
+) | ![Goal](screenshots/goal.png) |
 
 | You Won | Game Over |
 |:-------:|:---------:|
-| ![You Won](screenshots/won.png) | ![Game Over](screenshots/lost.png) |
+| ![You Won](![won](https://github.com/user-attachments/assets/3eeefc27-4470-428a-bbae-2524ee3af5e2)
+) | ![Game Over](![Lost](https://github.com/user-attachments/assets/856748d6-33e4-4cfb-83be-bbf26fecb80b)
+) |
 
 ---
 
